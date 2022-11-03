@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+//dummy kind of thing with all member with no need of table annotation
 public class User {
     private int id;
     private String name;

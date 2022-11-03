@@ -1,5 +1,7 @@
 package com.signup.service.signupService.service;
 
+import com.signup.service.signupService.model.User;
+import com.signup.service.signupService.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
